@@ -12,3 +12,4 @@
 /Users/danielmitka/Desktop/Csharp/NazevProjektu/obj/Debug/net9.0/NazevProjektu.pdb
 /Users/danielmitka/Desktop/Csharp/NazevProjektu/obj/Debug/net9.0/NazevProjektu.genruntimeconfig.cache
 /Users/danielmitka/Desktop/Csharp/NazevProjektu/obj/Debug/net9.0/ref/NazevProjektu.dll
+/Users/danielmitka/Desktop/Csharp/NazevProjektu/obj/Debug/net9.0/NazevProjektu.sourcelink.json
