@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielmitka/Desktop/Csharp/NazevProjektu/NazevProjektu.csproj": {}
+    "/Users/danielmitka/Desktop/Csharp/MiniProgramky24.3/NazevProjektu.csproj": {}
   },
   "projects": {
-    "/Users/danielmitka/Desktop/Csharp/NazevProjektu/NazevProjektu.csproj": {
+    "/Users/danielmitka/Desktop/Csharp/MiniProgramky24.3/NazevProjektu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielmitka/Desktop/Csharp/NazevProjektu/NazevProjektu.csproj",
+        "projectUniqueName": "/Users/danielmitka/Desktop/Csharp/MiniProgramky24.3/NazevProjektu.csproj",
         "projectName": "NazevProjektu",
-        "projectPath": "/Users/danielmitka/Desktop/Csharp/NazevProjektu/NazevProjektu.csproj",
+        "projectPath": "/Users/danielmitka/Desktop/Csharp/MiniProgramky24.3/NazevProjektu.csproj",
         "packagesPath": "/Users/danielmitka/.nuget/packages/",
-        "outputPath": "/Users/danielmitka/Desktop/Csharp/NazevProjektu/obj/",
+        "outputPath": "/Users/danielmitka/Desktop/Csharp/MiniProgramky24.3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danielmitka/.nuget/NuGet/NuGet.Config"

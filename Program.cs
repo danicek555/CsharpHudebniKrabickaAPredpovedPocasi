@@ -43,29 +43,29 @@
 // int nahodnyMesicTatky = Random.Shared.Next(1, 12);
 
 // int rokNaroMatky = nahodnyRok - 30;
-// int rokNaroTatky = nahodnyRok - 35;
+// int rokNaroTatky = nahodnyRok - 33;
 
 // Console.WriteLine("Narodil ses " + nahodnyDen + "." + nahodnyMesic + "." + nahodnyRok);
 // Console.WriteLine("Tvá mamča se narodila " + nahodnyDenMatky + "." + nahodnyMesicMatky + "." + rokNaroMatky);
 // Console.WriteLine("Tvůj táta se narodil " + nahodnyDenTatky + "." + nahodnyMesicTatky + "." + rokNaroTatky);
 
-Console.WriteLine("Zadej stranu A ");
-string stranaA = Console.ReadLine();
+// Console.WriteLine("Zadej stranu A ");
+// string stranaA = Console.ReadLine();
 
-Console.WriteLine("Zadej stranu B ");
-string stranaB = Console.ReadLine();
+// Console.WriteLine("Zadej stranu B ");
+// string stranaB = Console.ReadLine();
 
-Console.WriteLine("Zadej stranu C: ");   
-string stranaC = Console.ReadLine();
-
-
-Console.WriteLine("Zadej vysku: ");   
-string vyska = Console.ReadLine();
+// Console.WriteLine("Zadej stranu C: ");   
+// string stranaC = Console.ReadLine();
 
 
+// Console.WriteLine("Zadej vysku: ");   
+// string vyska = Console.ReadLine();
 
-int výsledek = Convert.ToInt32(stranaA) * Convert.ToInt32(stranaB) * Convert.ToInt32(vyska);
-int výsledek2 = Convert.ToInt32(stranaA) * Convert.ToInt32(stranaB) * Convert.ToInt32(stranaC);
 
-Console.WriteLine("Výsledek obsah lichoběžníku je: " + výsledek);
-Console.WriteLine("Výsledek Povrchu Kvádru je: " + výsledek2);
+
+// int výsledek = Convert.ToInt32(stranaA) * Convert.ToInt32(stranaB) * Convert.ToInt32(vyska);
+// int výsledek2 = Convert.ToInt32(stranaA) * Convert.ToInt32(stranaB) * Convert.ToInt32(stranaC);
+
+// Console.WriteLine("Výsledek obsah lichoběžníku je: " + výsledek);
+// Console.WriteLine("Výsledek Povrchu Kvádru je: " + výsledek2);
